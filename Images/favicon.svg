@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Soundwave" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: .25px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #3bb4c6;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: .5px;
+      }
+    </style>
+  </defs>
+  <path class="cls-2" d="M2.59,8.2c.23-4.32.51-7.69.87-7.7.74-.02,1.19,15.01,2,15,.8,0,1.08-14.89,2.02-14.94.95-.05,1.58,14.97,2.58,14.94,1-.03,1.43-14.97,2.09-14.94.38.02.8,3.99,1.26,14.94"/>
+  <line class="cls-1" y1="8.27" x2="16" y2="8.27"/>
+</svg>
